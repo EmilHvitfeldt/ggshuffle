@@ -1,0 +1,5 @@
+Name: ggshuffle
+Description: Perform visual check for overlapping
+Binding: ggshuffleAddin
+Interactive: true
+
